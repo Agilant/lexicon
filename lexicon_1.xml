@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: 0
+-->
 <lexicon version="1.0"
          xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
