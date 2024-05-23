@@ -20,7 +20,7 @@ Expires: 0
     </lexeme>
     <lexeme>
         <grapheme>PETN</grapheme>
-        <alias>P E T N</alias>
+        <phoneme>piˌʔiˌtiˌˈɛn</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>RDX</grapheme>
@@ -29,6 +29,14 @@ Expires: 0
     <lexeme>
         <grapheme>EDGN</grapheme>
         <alias>E D G N</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>GC/Chem</grapheme>
+        <alias>G C Chem</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>GC/MS/MS</grapheme>
+        <alias>G C MS MS</alias>
     </lexeme>
     <lexeme>
         <grapheme>IMS</grapheme>
@@ -43,6 +51,22 @@ Expires: 0
         <alias>Bench Number Five</alias>
     </lexeme>
     <lexeme>
+        <grapheme>Exhibit 1646</grapheme>
+        <alias>Exhibit sixteen forty-six</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Exhibit 320</grapheme>
+        <alias>Exhibit three twenty</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Exhibit 421</grapheme>
+        <alias>Exhibit four twenty-one</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Exhibit 914</grapheme>
+        <alias>Exhibit nine fourteen</alias>
+    </lexeme>
+    <lexeme>
         <grapheme>D. D. Hardy</grapheme>
         <alias>Dee Dee Hardy</alias>
     </lexeme>
@@ -52,19 +76,27 @@ Expires: 0
     </lexeme>
     <lexeme>
         <grapheme>Hexanitrostilbene</grapheme>
-        <phoneme>ˈhɛk.sə.naɪtrəʊˈstɪlˈbin</phoneme>
+        <phoneme>ˈhɛk.sə.naɪtrəʊ.ˈstɪl.bin</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Behenna</grapheme>
-        <phoneme>biˈhenə</phoneme>
+        <phoneme>biˈhɛnə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>dinitrate</grapheme>
+        <phoneme>daɪˈnaɪtreit</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Michalic</grapheme>
+        <phoneme>ˈmɪ.ʧəlɪk</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Pharmacopeia</grapheme>
-        <phoneme>fɑːʳməkoʊpiːə</phoneme>
+        <phoneme>fɑɹməˌˈkoʊpiə</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>diffractometer</grapheme>
-        <phoneme>dɪ frækˈtɒm ɪ tər</phoneme>
+        <phoneme>dɪfɹæktˌˈɑmətəɹ</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>&amp;</grapheme>
