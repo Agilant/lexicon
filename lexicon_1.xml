@@ -84,7 +84,7 @@ Expires: 0
     </lexeme>
     <lexeme>
         <grapheme>glycol</grapheme>
-        <phoneme>ˈglaɪˌkɑl</phoneme>
+        <phoneme>dɪ.ˈfɛns</phoneme> <!-- Testing to see if the updated lexicon is being used...-->
     </lexeme>
     <lexeme>
         <grapheme>dinitrate</grapheme>
