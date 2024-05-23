@@ -11,11 +11,11 @@ Expires: 0
 	http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
          alphabet="ipa" xml:lang="en-US">
     <lexeme>
-        <grapheme> defense </grapheme>
+        <grapheme>defense</grapheme>
         <phoneme> dɪ.ˈfɛns </phoneme>
     </lexeme>
     <lexeme>
-        <grapheme> offense </grapheme>
+        <grapheme>offense</grapheme>
         <phoneme> ə.ˈfɛns </phoneme>
     </lexeme>
     <lexeme>
@@ -76,7 +76,7 @@ Expires: 0
     </lexeme>
     <lexeme>
         <grapheme>Hexanitrostilbene</grapheme>
-        <phoneme>ˈhɛk.sə.naɪtrəʊ.ˈstɪl.bin</phoneme>
+        <phoneme>hɛksəˌˈnaɪtɹoʊˌˈstɪlbin</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Behenna</grapheme>
@@ -88,11 +88,11 @@ Expires: 0
     </lexeme>
     <lexeme>
         <grapheme>dinitrate</grapheme>
-        <phoneme>daɪˈnaɪtreit</phoneme>
+        <phoneme>daɪˌˈnaɪtɹeɪt</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Michalic</grapheme>
-        <phoneme>ˈmɪ.ʧəlɪk</phoneme>
+        <phoneme>ˈmɪtʃəlɪk</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Pharmacopeia</grapheme>
