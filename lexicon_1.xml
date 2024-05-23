@@ -52,15 +52,15 @@ Expires: 0
     </lexeme>
     <lexeme>
         <grapheme>GC/MS/MS</grapheme>
-        <alias>G C M S M S</alias>
+        <alias>G C, M S, M S</alias>
     </lexeme>
     <lexeme>
         <grapheme>IMS</grapheme>
-        <alias>I M S</alias>
+        <phoneme>aɪˌɛmˌˈɛs</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>MS/MS</grapheme>
-        <alias>M S M S</alias>
+        <alias>M S, M S</alias>
     </lexeme>
     <lexeme>
         <grapheme>PETN</grapheme>
@@ -72,7 +72,7 @@ Expires: 0
     </lexeme>
     <lexeme>
         <grapheme>SSI</grapheme>
-        <alias>S S I</alias>
+        <phoneme>ɛs.ɛs.ˈaɪ</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>YMCA</grapheme>
@@ -82,59 +82,59 @@ Expires: 0
 	
     <lexeme>
         <grapheme>Behenna</grapheme>
-        <phoneme>biˈhɛnə</phoneme>
+        <phoneme>bi.ˈhɛn.ə</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>chromatography</grapheme>
-        <phoneme>kɹoʊməˌˈtɑgɹəfi</phoneme>
+        <phoneme>kɹoʊ.mə.ˈtɑg.ɹə.fi</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Czechoslovakia</grapheme>
-        <phoneme>tʃɛkoʊsloʊˌˈvɑkiə</phoneme>
+        <phoneme>tʃɛ.koʊ.sloʊ.ˈvɑ.kiə</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>defense</grapheme>
-        <phoneme> dɪ.ˈfɛns </phoneme>
+        <phoneme>dɪ.ˈfɛns</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>diffractometer</grapheme>
-        <phoneme>dɪfɹæktˌˈɑmətəɹ</phoneme>
+        <phoneme>dɪfɹækt.ˈɑmətəɹ</phoneme>
     </lexeme>	
     <lexeme>
         <grapheme>dinitrate</grapheme>
-        <phoneme>daɪˌˈnaɪtɹeɪt</phoneme>
+        <phoneme>daɪ.ˈnaɪ.tɹeɪt</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>glycol</grapheme>
-        <phoneme>ˈglaɪˌkɑl</phoneme>
+        <phoneme>ˈglaɪ.kɑl</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Hexanitrostilbene</grapheme>
-        <phoneme>hɛksəˌˈnaɪtɹoʊˌˈstɪlbin</phoneme>
+        <phoneme>hɛk.sə.ˈnaɪ.tɹoʊ.ˈstɪl.bin</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Michalic</grapheme>
-        <phoneme>ˈmɪtʃəlɪk</phoneme>
+        <phoneme>ˈmɪ.tʃə.lɪk</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Murrah</grapheme>
-        <phoneme>ˈmɝə</phoneme>
+        <phoneme>ˈmɝ.ə</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>offense</grapheme>
-        <phoneme> ə.ˈfɛns </phoneme>
+        <phoneme>ə.ˈfɛns</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Pharmacopeia</grapheme>
-        <phoneme>fɑɹməˌˈkoʊpiə</phoneme>
+        <phoneme>fɑɹmə.ˈkoʊ.piə</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Quantico</grapheme>
-        <phoneme>ˈkwɑntɪkoʊ</phoneme>
+        <phoneme>ˈkwɑn.tɪ.koʊ</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Smally's</grapheme>
-        <phoneme>ˈsmɑˌliz</phoneme>
+        <phoneme>ˈsmɑ.liz</phoneme>
     </lexeme>
 
 
