@@ -101,11 +101,7 @@ Expires: 0
     <lexeme>
         <grapheme>diffractometer</grapheme>
         <phoneme>dɪfɹæktˌˈɑmətəɹ</phoneme>
-    </lexeme>
-	<lexeme>
-        <grapheme>Texas A&M</grapheme>
-        <alias>Texas A and M</alias>
-    </lexeme>
+    </lexeme>	
     <lexeme>
         <grapheme>&amp;</grapheme>
         <alias>and</alias>
