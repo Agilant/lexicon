@@ -11,48 +11,24 @@ Expires: 0
 	http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
          alphabet="ipa" xml:lang="en-US">
     <lexeme>
-        <grapheme>defense</grapheme>
-        <phoneme> dɪ.ˈfɛns </phoneme>
+        <grapheme>&amp;</grapheme>
+        <alias>and</alias>
     </lexeme>
     <lexeme>
-        <grapheme>offense</grapheme>
-        <phoneme> ə.ˈfɛns </phoneme>
-    </lexeme>
-    <lexeme>
-        <grapheme>PETN</grapheme>
-        <phoneme>piˌʔiˌtiˌˈɛn</phoneme>
-    </lexeme>
-    <lexeme>
-        <grapheme>RDX</grapheme>
-        <alias>R D X</alias>
-    </lexeme>
-    <lexeme>
-        <grapheme>EDGN</grapheme>
-        <alias>E D G N</alias>
-    </lexeme>
-    <lexeme>
-        <grapheme>GC/Chem</grapheme>
-        <alias>G C Chem</alias>
-    </lexeme>
-    <lexeme>
-        <grapheme>GC/MS/MS</grapheme>
-        <alias>G C MS MS</alias>
-    </lexeme>
-    <lexeme>
-        <grapheme>IMS</grapheme>
-        <alias>I M S</alias>
-    </lexeme>
-    <lexeme>
-        <grapheme>SSI</grapheme>
-        <alias>S S I</alias>
+        <grapheme>😀</grapheme>
+        <alias>test emoji</alias>
     </lexeme>
     <lexeme>
         <grapheme>Bench No. 5</grapheme>
         <alias>Bench Number Five</alias>
     </lexeme>
     <lexeme>
-        <grapheme>Exhibit 1646</grapheme>
-        <alias>Exhibit sixteen forty-six</alias>
+        <grapheme>D. D. Hardy</grapheme>
+        <alias>Dee Dee Hardy</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>EDGN</grapheme>
+        <alias>E D G N</alias>
     </lexeme>
     <lexeme>
         <grapheme>Exhibit 320</grapheme>
@@ -67,48 +43,99 @@ Expires: 0
         <alias>Exhibit nine fourteen</alias>
     </lexeme>
     <lexeme>
-        <grapheme>D. D. Hardy</grapheme>
-        <alias>Dee Dee Hardy</alias>
+        <grapheme>Exhibit 1646</grapheme>
+        <alias>Exhibit sixteen forty-six</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>GC/Chem</grapheme>
+        <alias>G C Chem</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>GC/MS/MS</grapheme>
+        <alias>G C M S M S</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>IMS</grapheme>
+        <alias>I M S</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>MS/MS</grapheme>
+        <alias>M S M S</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>PETN</grapheme>
+        <phoneme>piˌʔiˌtiˌˈɛn</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>RDX</grapheme>
+        <alias>R D X</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>SSI</grapheme>
+        <alias>S S I</alias>
     </lexeme>
     <lexeme>
         <grapheme>YMCA</grapheme>
         <alias>Y M C A</alias>
     </lexeme>
-    <lexeme>
-        <grapheme>Hexanitrostilbene</grapheme>
-        <phoneme>hɛksəˌˈnaɪtɹoʊˌˈstɪlbin</phoneme>
-    </lexeme>
+
+	
     <lexeme>
         <grapheme>Behenna</grapheme>
         <phoneme>biˈhɛnə</phoneme>
     </lexeme>
     <lexeme>
-        <grapheme>glycol</grapheme>
-        <phoneme>ˈglaɪˌkɑl</phoneme>
+        <grapheme>chromatography</grapheme>
+        <phoneme>kɹoʊməˌˈtɑgɹəfi</phoneme>
     </lexeme>
     <lexeme>
-        <grapheme>dinitrate</grapheme>
-        <phoneme>daɪˌˈnaɪtɹeɪt</phoneme>
+        <grapheme>Czechoslovakia</grapheme>
+        <phoneme>tʃɛkoʊsloʊˌˈvɑkiə</phoneme>
     </lexeme>
     <lexeme>
-        <grapheme>Michalic</grapheme>
-        <phoneme>ˈmɪtʃəlɪk</phoneme>
-    </lexeme>
-    <lexeme>
-        <grapheme>Pharmacopeia</grapheme>
-        <phoneme>fɑɹməˌˈkoʊpiə</phoneme>
+        <grapheme>defense</grapheme>
+        <phoneme> dɪ.ˈfɛns </phoneme>
     </lexeme>
     <lexeme>
         <grapheme>diffractometer</grapheme>
         <phoneme>dɪfɹæktˌˈɑmətəɹ</phoneme>
     </lexeme>	
     <lexeme>
-        <grapheme>&amp;</grapheme>
-        <alias>and</alias>
+        <grapheme>dinitrate</grapheme>
+        <phoneme>daɪˌˈnaɪtɹeɪt</phoneme>
     </lexeme>
     <lexeme>
-        <grapheme>😀</grapheme>
-        <alias>test emoji</alias>
+        <grapheme>glycol</grapheme>
+        <phoneme>ˈglaɪˌkɑl</phoneme>
     </lexeme>
+    <lexeme>
+        <grapheme>Hexanitrostilbene</grapheme>
+        <phoneme>hɛksəˌˈnaɪtɹoʊˌˈstɪlbin</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Michalic</grapheme>
+        <phoneme>ˈmɪtʃəlɪk</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Murrah</grapheme>
+        <phoneme>ˈmɝə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>offense</grapheme>
+        <phoneme> ə.ˈfɛns </phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Pharmacopeia</grapheme>
+        <phoneme>fɑɹməˌˈkoʊpiə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Quantico</grapheme>
+        <phoneme>ˈkwɑntɪkoʊ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Smally's</grapheme>
+        <phoneme>ˈsmɑˌliz</phoneme>
+    </lexeme>
+
 
 </lexicon>
