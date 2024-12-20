@@ -79,18 +79,51 @@ Expires: 0
         <alias>Y M C A</alias>
     </lexeme>
 
-	
+
+
     <lexeme>
         <grapheme>Behenna</grapheme>
         <phoneme>bi.ˈhɛn.ə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Beth Ann Armstrong</grapheme>
+        <alias>BethAnnArmstrong</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>BethAnnArmstrong</grapheme>
+        <alias>ˈbɛθ.ˈæn.ˈɑɹmstɹɑŋ</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Bisbee Construction</grapheme>
+        <alias>BisbeeConstruction</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>BisbeeConstruction</grapheme>
+        <alias>ˈbɪzˌbi.kənˈstɹʌkʃən</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Chile</grapheme>
+        <phoneme>ˈtʃiˌleɪ</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>chromatography</grapheme>
         <phoneme>kɹoʊməˈtɑgɹəfi</phoneme>
     </lexeme>
     <lexeme>
+        <grapheme>Contractors</grapheme>
+        <phoneme>ˈkɑntɹæktɚz</phoneme>
+    </lexeme>
+    <lexeme>
         <grapheme>Czechoslovakia</grapheme>
         <phoneme>tʃɛ.koʊ.sloʊ.ˈvɑ.kiə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>David Bass</grapheme>
+        <alias>DavidBass</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>DavidBass</grapheme>
+        <alias>ˈdeɪvɪd.ˈbæs</alias>
     </lexeme>
     <lexeme>
         <grapheme>defense</grapheme>
@@ -109,12 +142,60 @@ Expires: 0
         <phoneme>ˈdɪsˌpætʃ</phoneme>
     </lexeme>
     <lexeme>
+        <grapheme>Dothan</grapheme>
+        <phoneme>ˈdoʊθən</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Dr. Lee</grapheme>
+        <alias>DoctorLee</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>DoctorLee</grapheme>
+        <alias>ˈdɑktɚ.ˈli</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Elon Musk</grapheme>
+        <alias>ElonMusk</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>ElonMusk</grapheme>
+        <alias>ˈilɑn.ˈmʌsk</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Everest</grapheme>
+        <phoneme>ˈɛvɚɪst</phoneme>
+    </lexeme>
+    <lexeme>
         <grapheme>glycol</grapheme>
         <phoneme>ˈglaɪ.kɑl</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>Hexanitrostilbene</grapheme>
         <phoneme>bə.ˈnæ.nə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Little GQ</grapheme>
+        <alias>LittleGQ</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>LittleGQ</grapheme>
+        <alias>ˈlɪtəl.ˈdʒi.ˈkju</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>M&Ms</grapheme>
+        <phoneme>ɛmənˈɛmz</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>medieval</grapheme>
+        <phoneme>mɪdˈivəl</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Mesa Arch</grapheme>
+        <alias>MesaArch</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>MesaArch</grapheme>
+        <alias>ˈmeɪsə.ˈɑɹtʃ</alias>
     </lexeme>
     <lexeme>
         <grapheme>Michalic</grapheme>
@@ -137,8 +218,28 @@ Expires: 0
         <phoneme>ˈkwɑn.tɪ.koʊ</phoneme>
     </lexeme>
     <lexeme>
+        <grapheme>quantum meruit</grapheme>
+        <phoneme>ˈkwɑntəm.ˈmɛɹuɪt</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Sally Ann Hill</grapheme>
+        <alias>SallyAnnHill</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>SallyAnnHill</grapheme>
+        <alias>ˈsæli.ˈæn.ˈhɪl</alias>
+    </lexeme>
+    <lexeme>
         <grapheme>Smally's</grapheme>
         <phoneme>ˈsmɑ.liz</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>tased</grapheme>
+        <phoneme>ˈteɪzd</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Toyota</grapheme>
+        <phoneme>tɔɪˈoʊdə</phoneme>
     </lexeme>
 
 
