@@ -11,6 +11,10 @@
     </lexeme>
     <lexeme>
         <grapheme>MAC</grapheme>
-        <alias>M A C</alias>
+        <alias>Mesa Art Center</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Scotland MV</grapheme>
+        <alias>Scotland Media Wave</alias>
     </lexeme>
 </lexicon>
