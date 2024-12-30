@@ -9,12 +9,13 @@
         <grapheme>Chile</grapheme>
         <phoneme>ˈtʃiˌleɪ</phoneme>
     </lexeme>
-    <lexeme>
-        <grapheme>MAC</grapheme>
-        <alias>Mesa Art Center</alias>
-    </lexeme>
+
     <lexeme>
         <grapheme>Scotland MV</grapheme>
         <alias>Scotland Media Wave</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>NASA</grapheme>
+        <phoneme>ɛn.eɪ.ɛs.eɪ</phoneme>
     </lexeme>
 </lexicon>
