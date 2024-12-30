@@ -14,10 +14,7 @@ Expires: 0
         <grapheme>&amp;</grapheme>
         <alias>and</alias>
     </lexeme>
-    <lexeme>
-        <grapheme>😀</grapheme>
-        <alias>test emoji</alias>
-    </lexeme>
+
     <lexeme>
         <grapheme>Bench No. 5</grapheme>
         <alias>Bench Number Five</alias>
