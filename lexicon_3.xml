@@ -1,21 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: 0
+-->
 <lexicon version="1.0"
          xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
-        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+	http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
          alphabet="ipa" xml:lang="en-US">
     <lexeme>
-        <grapheme>Chile</grapheme>
-        <phoneme>ˈtʃiˌleɪ</phoneme>
+        <grapheme>&amp;</grapheme>
+        <alias>and</alias>
     </lexeme>
 
     <lexeme>
-        <grapheme>Scotland MV</grapheme>
-        <alias>Scotland Media Wave</alias>
+        <grapheme>Bench No. 5</grapheme>
+        <alias>Bench Number Five</alias>
     </lexeme>
+    <lexeme>
+        <grapheme>D. D. Hardy</grapheme>
+        <alias>Dee Dee Hardy</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>EDGN</grapheme>
+        <alias>E D G N</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Exhibit 320</grapheme>
+        <alias>Exhibit three twenty</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Exhibit 421</grapheme>
+        <alias>Exhibit four twenty-one</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Exhibit 914</grapheme>
+        <alias>Exhibit nine fourteen</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Exhibit 1646</grapheme>
+        <alias>Exhibit sixteen forty-six</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>GC/Chem</grapheme>
+        <alias>G C Chem</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>GC/MS/MS</grapheme>
+        <alias>G C, M S, M S</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>IMS</grapheme>
+        <phoneme>aɪˌɛmˌˈɛs</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>MS/MS</grapheme>
+        <alias>M S, M S</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>PETN</grapheme>
+        <phoneme>piˌʔiˌtiˌˈɛn</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>RDX</grapheme>
+        <alias>R D X</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>SSI</grapheme>
+        <phoneme>ɛs.ɛs.ˈaɪ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>YMCA</grapheme>
+        <alias>Y M C A</alias>
+    </lexeme>
+
+
     <lexeme>
         <grapheme>NASA</grapheme>
         <phoneme>ɛn.eɪ.ɛs.eɪ</phoneme>
     </lexeme>
+    <lexeme>
+        <grapheme>Behenna</grapheme>
+        <phoneme>bi.ˈhɛn.ə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Beth Ann Armstrong</grapheme>
+        <alias>BethAnnArmstrong</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>BethAnnArmstrong</grapheme>
+        <alias>ˈbɛθ.ˈæn.ˈɑɹmstɹɑŋ</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Bisbee Construction</grapheme>
+        <alias>BisbeeConstruction</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>BisbeeConstruction</grapheme>
+        <alias>ˈbɪzˌbi.kənˈstɹʌkʃən</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Chile</grapheme>
+        <phoneme>ˈtʃiˌleɪ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>chromatography</grapheme>
+        <phoneme>kɹoʊməˈtɑgɹəfi</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Contractors</grapheme>
+        <phoneme>ˈkɑntɹæktɚz</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Czechoslovakia</grapheme>
+        <phoneme>tʃɛ.koʊ.sloʊ.ˈvɑ.kiə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>David Bass</grapheme>
+        <alias>DavidBass</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>DavidBass</grapheme>
+        <alias>ˈdeɪvɪd.ˈbæs</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>defense</grapheme>
+        <phoneme>dɪ.ˈfɛns</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>diffractometer</grapheme>
+        <phoneme>dɪfɹækt.ˈɑmətəɹ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>dinitrate</grapheme>
+        <phoneme>daɪ.ˈnaɪ.tɹeɪt</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>dispatch</grapheme>
+        <phoneme>ˈdɪsˌpætʃ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Dothan</grapheme>
+        <phoneme>ˈdoʊθən</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Dr. Lee</grapheme>
+        <alias>DoctorLee</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>DoctorLee</grapheme>
+        <alias>ˈdɑktɚ.ˈli</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Elon Musk</grapheme>
+        <alias>ElonMusk</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>ElonMusk</grapheme>
+        <alias>ˈilɑn.ˈmʌsk</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Everest</grapheme>
+        <phoneme>ˈɛvɚɪst</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>glycol</grapheme>
+        <phoneme>ˈglaɪ.kɑl</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Hexanitrostilbene</grapheme>
+        <phoneme>bə.ˈnæ.nə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Little GQ</grapheme>
+        <alias>LittleGQ</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>LittleGQ</grapheme>
+        <alias>ˈlɪtəl.ˈdʒi.ˈkju</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>M&amp;Ms</grapheme>
+        <phoneme>ɛmənˈɛmz</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>medieval</grapheme>
+        <phoneme>mɪdˈivəl</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Mesa Arch</grapheme>
+        <alias>MesaArch</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>MesaArch</grapheme>
+        <alias>ˈmeɪsə.ˈɑɹtʃ</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Michalic</grapheme>
+        <phoneme>ˈmɪ.tʃə.lɪk</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Murrah</grapheme>
+        <phoneme>ˈmɝ.ə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>offense</grapheme>
+        <phoneme>ə.ˈfɛns</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Pharmacopeia</grapheme>
+        <phoneme>fɑɹmə.ˈkoʊ.piə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Quantico</grapheme>
+        <phoneme>ˈkwɑn.tɪ.koʊ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>quantum meruit</grapheme>
+        <phoneme>ˈkwɑntəm.ˈmɛɹuɪt</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Sally Ann Hill</grapheme>
+        <alias>SallyAnnHill</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>SallyAnnHill</grapheme>
+        <alias>ˈsæli.ˈæn.ˈhɪl</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Smally's</grapheme>
+        <phoneme>ˈsmɑ.liz</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>tased</grapheme>
+        <phoneme>ˈteɪzd</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Toyota</grapheme>
+        <phoneme>tɔɪˈoʊdə</phoneme>
+    </lexeme>
+
+
 </lexicon>
