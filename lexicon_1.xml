@@ -80,7 +80,10 @@ Expires: 0
     </lexeme>
 
 
-
+    <lexeme>
+        <grapheme>NASA</grapheme>
+        <phoneme>ɛn.eɪ.ɛs.eɪ</phoneme>
+    </lexeme>
     <lexeme>
         <grapheme>Behenna</grapheme>
         <phoneme>bi.ˈhɛn.ə</phoneme>
